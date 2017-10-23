@@ -1,0 +1,66 @@
+body{
+padding: 0px;
+}
+.navbar{
+background-color: #2f3da5;
+border-radius: 0px !important;
+height: 80px; 
+padding: 10px;
+z-index: 10 !important;
+margin-bottom: 0px !important;
+}
+.div1 {
+/* margin-top: 5px; */
+text-decoration: none !important;
+color:#fff;
+background-color: rgb(0, 121, 55);
+padding: 10px;
+border-radius: 2px;
+}
+.header {
+/* The image used */
+background-image: url("../img/1624x700.png");
+/* Full height */
+height: 100%; 
+/* Center and scale the image nicely */
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+.info{
+margin-top: 50px;
+margin-bottom: 50px;
+}
+.footer{
+background-color: rgb(12, 0, 78);
+padding: 50px 20px 50px 20px;
+color: #fff;
+text-decoration: none !important;
+}
+.footerSmall{
+height: 60px;
+background-color: green;
+}
+.cardStyle{
+width: 40%;
+background-color: grey;
+border-radius: 3px;
+float: left;
+padding: 10px;
+margin-bottom:20px;
+margin-right:10px;
+}
+.submitForm{
+height: 726px !important;
+width: 100%;
+}
+.top{
+margin-top: 5px;
+}
+hr{
+margin: 5px;
+}
+
+h5{
+text-align: right;
+}
